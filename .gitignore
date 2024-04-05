@@ -1,9 +1,15 @@
+# Ignorar todos los archivos
 *
-
-# Excepto a los siguientes archivos
+# Excepto
+!*.gitignore
 !*.vhd
 !/*
 !/*.vhd
-!*.md
-!*.vwf
+!*.rar
+!/teclado_hexadecimal_xilinx/tecHexadecimal.srcs/sources_1/new/
+!/*/*/*/*/*.vhd
+!*.zip
 !*.txt
+!*.md
+
+
