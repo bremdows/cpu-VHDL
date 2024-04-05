@@ -1,2 +1,2 @@
 # cpu-VHDL
-proyecto-VHDL para modelar un procesador
+Modelado y funcionamiento de unidad central de procesamiento

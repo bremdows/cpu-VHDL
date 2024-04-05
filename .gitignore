@@ -1,0 +1,9 @@
+*
+
+# Excepto a los siguientes archivos
+!*.vhd
+!/*
+!/*.vhd
+!*.md
+!*.vwf
+!*.txt
